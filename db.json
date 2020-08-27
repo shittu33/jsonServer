@@ -1,16 +1,35 @@
 {
-  "posts":[
+  "grades": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
+      "student id": "fjjferkj344",
+      "courses": [
+        {
+          "name": "eng",
+          "score": 80,
+          "grade": "A"
+        }
+      ],
+      "total": 0
+    },    {
+      "student id": "fjjferkj349  ",
+      "courses": [
+        {
+          "name": "eng",
+          "score": 80,
+          "grade": "A"
+        }
+      ],
+      "total": 0
     }
   ],
-  "comments" : [
+  "totalScores": [
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "student id": "erferf334gr",
+      "total": 200
+    },
+    {
+      "student id": "erferf334gr",
+      "total": 200
     }
   ]
 }
